@@ -1,0 +1,15 @@
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/obj/Debug/net6.0/ClassesLesson.csproj.AssemblyReference.cache
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/obj/Debug/net6.0/ClassesLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/obj/Debug/net6.0/ClassesLesson.AssemblyInfoInputs.cache
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/obj/Debug/net6.0/ClassesLesson.AssemblyInfo.cs
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/obj/Debug/net6.0/ClassesLesson.csproj.CoreCompileInputs.cache
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/bin/Debug/net6.0/ClassesLesson
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/bin/Debug/net6.0/ClassesLesson.deps.json
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/bin/Debug/net6.0/ClassesLesson.runtimeconfig.json
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/bin/Debug/net6.0/ClassesLesson.dll
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/bin/Debug/net6.0/ClassesLesson.pdb
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/obj/Debug/net6.0/ClassesLesson.dll
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/obj/Debug/net6.0/refint/ClassesLesson.dll
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/obj/Debug/net6.0/ClassesLesson.pdb
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/obj/Debug/net6.0/ClassesLesson.genruntimeconfig.cache
+/Users/danielpellatt/Desktop/Repos/ClassesLesson/ClassesLesson/obj/Debug/net6.0/ref/ClassesLesson.dll
